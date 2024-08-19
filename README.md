@@ -1,5 +1,8 @@
 # InfoDESLib Experimental Results 
 
+
+### Performance of the different ML approaches using ADNI dataset. 
+
 | **Model Type**               | **Model** | **Accuracy** | **Precision** | **Recall** | **F1** |
 |------------------------------|-----------|--------------|---------------|------------|--------|
 | **Single Models**             | XGB       | 87.11±2.32   | 87.50±2.63    | 87.11±2.32 | 87.03±2.49 |
@@ -13,3 +16,6 @@
 |                               | Stacking  | 87.65±1.59   | 88.13±1.64    | 87.65±1.59 | 87.60±1.74 |
 | **[Late] Dynamic Ensemble**   | KNORAU    | 89.52±2.01   | 89.77±2.01    | 89.52±2.01 | 89.46±2.10 |
 |                               | KNORAU-W  | 89.84±1.83   | 90.29±2.03    | 89.81±1.83 | 89.80±1.91 |
+
+--- 
+
